@@ -35,7 +35,7 @@ random = [
 ]
 
 puts random.sample
-puts ""
+puts 
 puts "У меня примут домашки?"
 sleep(5)
 puts answers.sample
