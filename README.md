@@ -1,5 +1,6 @@
 ![Image alt](https://github.com/{yegorch}/{ruby-8ball}/raw/{blob}/{main}/ball.png)
-https://github.com/yegorch/ruby-8ball/blob/main/ball.png
+![Image alt](https://github.com/yegorch/ruby-8ball/blob/main/ball.png)
+
 
 # Магический шар
 Magic 8 ball: шар предсказаний — игрушка, шуточный способ предсказывать будущее.
