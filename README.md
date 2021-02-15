@@ -13,7 +13,6 @@ https://ru.wikipedia.org/wiki/Magic_8_ball
 ```
 cd rubytut
 ruby 8ball.rb
-
 ```
 
 1. Откройте терминал(в вашем редакторе кода или в программах)
