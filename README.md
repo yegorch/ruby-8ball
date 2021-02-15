@@ -8,7 +8,7 @@ Magic 8 ball: шар предсказаний — игрушка, шуточны
 https://ru.wikipedia.org/wiki/Magic_8_ball
 
 # Консольная мини-игра написанная на Ruby:
-Как запустить игру?
+# Как запустить игру?
 
 # cd rubytut
 # ruby 8ball.rb
