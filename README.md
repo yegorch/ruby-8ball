@@ -1,4 +1,3 @@
-![Image alt](https://github.com/{yegorch}/{ruby-8ball}/raw/{blob}/{main}/ball.png)
 ![Image alt](https://github.com/yegorch/ruby-8ball/blob/main/ball.png)
 
 
